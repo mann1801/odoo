@@ -1,6 +1,6 @@
 # odoo
 
-Problem statement: ReWear – Community Clothing Exchange
+Problem statement: StackIt – A Minimal Q&A Forum Platform
 
 Team name: Techno Wizards
 Email: mannsoni181@gmail.com
