@@ -1,0 +1,1492 @@
+[{
+  "_id": {
+    "$oid": "68722501689b4aaefe044b32"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "question_answered",
+  "title": "Your question received an answer",
+  "message": "shr answered your question \"dscbdsncsdkcnd  m\"",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "687211f7003bb4bb9ab33243"
+    }
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:04:01.896Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:04:01.896Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687225cd689b4aaefe044b9b"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "man upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "687225ac689b4aaefe044b75"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:07:25.313Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:07:25.313Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687225d4689b4aaefe044bc7"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "question_voted",
+  "title": "Your question received an upvote",
+  "message": "man upvoted your question \"dscbdsncsdkcnd  m\"",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "userId": {
+      "$oid": "687225ac689b4aaefe044b75"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:07:32.858Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:07:32.858Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687225d5689b4aaefe044bd7"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "question_voted",
+  "title": "Your question received an upvote",
+  "message": "man upvoted your question \"dscbdsncsdkcnd  m\"",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "userId": {
+      "$oid": "687225ac689b4aaefe044b75"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:07:33.755Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:07:33.755Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687225e9689b4aaefe044bec"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "question_answered",
+  "title": "Your question received an answer",
+  "message": "man answered your question \"dscbdsncsdkcnd  m\"",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "687225e9689b4aaefe044be7"
+    },
+    "userId": {
+      "$oid": "687225ac689b4aaefe044b75"
+    }
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:07:53.940Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:07:53.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6872273c4294c2daa52fd4a6"
+  },
+  "recipient": {
+    "$oid": "687225ac689b4aaefe044b75"
+  },
+  "type": "question_answered",
+  "title": "Your question received an answer",
+  "message": "man answered your question \"sdfcdfhngchndhfnf\"",
+  "data": {
+    "questionId": {
+      "$oid": "6872271e4294c2daa52fd47f"
+    },
+    "answerId": {
+      "$oid": "6872273c4294c2daa52fd4a1"
+    },
+    "userId": {
+      "$oid": "687225ac689b4aaefe044b75"
+    }
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:13:32.962Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:13:32.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6872274b4294c2daa52fd4b2"
+  },
+  "recipient": {
+    "$oid": "687225ac689b4aaefe044b75"
+  },
+  "type": "answer_accepted",
+  "title": "Your answer was accepted",
+  "message": "man accepted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "6872271e4294c2daa52fd47f"
+    },
+    "answerId": {
+      "$oid": "6872273c4294c2daa52fd4a1"
+    },
+    "userId": {
+      "$oid": "687225ac689b4aaefe044b75"
+    }
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:13:47.418Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:13:47.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687227714294c2daa52fd4e0"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "man upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "687225ac689b4aaefe044b75"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:14:25.398Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:14:25.398Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687227754294c2daa52fd4f0"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "man upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "687225ac689b4aaefe044b75"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:14:29.107Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:14:29.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687227844294c2daa52fd503"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "man upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "687225ac689b4aaefe044b75"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:14:44.588Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:14:44.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687227874294c2daa52fd512"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "question_voted",
+  "title": "Your question received an upvote",
+  "message": "man upvoted your question \"dscbdsncsdkcnd  m\"",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "userId": {
+      "$oid": "687225ac689b4aaefe044b75"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:14:47.032Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:14:47.032Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687227884294c2daa52fd521"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "question_voted",
+  "title": "Your question received an upvote",
+  "message": "man upvoted your question \"dscbdsncsdkcnd  m\"",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "userId": {
+      "$oid": "687225ac689b4aaefe044b75"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:14:48.195Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:14:48.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687227ab4294c2daa52fd56d"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "question_answered",
+  "title": "Your question received an answer",
+  "message": "man answered your question \"coding in real world\"",
+  "data": {
+    "questionId": {
+      "$oid": "687217f844f54ac94614c6f6"
+    },
+    "answerId": {
+      "$oid": "687227ab4294c2daa52fd568"
+    },
+    "userId": {
+      "$oid": "687225ac689b4aaefe044b75"
+    }
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:15:23.817Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:15:23.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687227b54294c2daa52fd576"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "question_voted",
+  "title": "Your question received an upvote",
+  "message": "man upvoted your question \"coding in real world\"",
+  "data": {
+    "questionId": {
+      "$oid": "687217f844f54ac94614c6f6"
+    },
+    "userId": {
+      "$oid": "687225ac689b4aaefe044b75"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:15:33.363Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:15:33.363Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687228fabe157cf8a02946f5"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "man upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "687225ac689b4aaefe044b75"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:20:58.590Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:20:58.590Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68722ce22a91ff867a280e20"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "man upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "687225ac689b4aaefe044b75"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:37:38.460Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:37:38.460Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68722ce52a91ff867a280e32"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "man upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "687225ac689b4aaefe044b75"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:37:41.881Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:37:41.881Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68722cea2a91ff867a280e44"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "man upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "687225ac689b4aaefe044b75"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:37:46.871Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:37:46.871Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68722e23ece9e0360e7c68ca"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "pratham upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "68722e1cece9e0360e7c68a0"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:42:59.569Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:42:59.569Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68722e28ece9e0360e7c68d8"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "pratham upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "68722e1cece9e0360e7c68a0"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:43:04.103Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:43:04.103Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68722e28ece9e0360e7c68e0"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "pratham upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "68722e1cece9e0360e7c68a0"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:43:04.856Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:43:04.856Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68722e29ece9e0360e7c68e8"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "pratham upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "68722e1cece9e0360e7c68a0"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:43:05.383Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:43:05.383Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68722e29ece9e0360e7c68f0"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "pratham upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "68722e1cece9e0360e7c68a0"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:43:05.889Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:43:05.889Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68722e2aece9e0360e7c68f8"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "pratham upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "68722e1cece9e0360e7c68a0"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:43:06.518Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:43:06.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68722e2fece9e0360e7c6900"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "pratham upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "68722e1cece9e0360e7c68a0"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:43:11.336Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:43:11.336Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68722e30ece9e0360e7c6908"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "pratham upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "68722e1cece9e0360e7c68a0"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:43:12.009Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:43:12.009Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68722e30ece9e0360e7c6910"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "pratham upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "68722e1cece9e0360e7c68a0"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:43:12.638Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:43:12.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68722e32ece9e0360e7c6918"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "pratham upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "68722e1cece9e0360e7c68a0"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:43:14.234Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:43:14.234Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68722e33ece9e0360e7c6920"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "pratham upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "68722e1cece9e0360e7c68a0"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:43:15.026Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:43:15.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68722e33ece9e0360e7c6928"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "pratham upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "68722e1cece9e0360e7c68a0"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:43:15.732Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:43:15.732Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68722e34ece9e0360e7c6930"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "pratham upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "68722e1cece9e0360e7c68a0"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:43:16.451Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:43:16.451Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68722e36ece9e0360e7c6938"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "pratham upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "68722e1cece9e0360e7c68a0"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:43:18.020Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:43:18.020Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68722e7aece9e0360e7c6972"
+  },
+  "recipient": {
+    "$oid": "687225ac689b4aaefe044b75"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "defads upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "687225e9689b4aaefe044be7"
+    },
+    "userId": {
+      "$oid": "68722e71ece9e0360e7c694a"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:44:26.729Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:44:26.729Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68722e8aece9e0360e7c697a"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "defads upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "68722e71ece9e0360e7c694a"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:44:42.110Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:44:42.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68722e8dece9e0360e7c6988"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "defads upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "68722e71ece9e0360e7c694a"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:44:45.665Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:44:45.665Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68722ef4ece9e0360e7c6990"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "defads upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "68722e71ece9e0360e7c694a"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:46:28.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:46:28.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68722ef5ece9e0360e7c6998"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "defads upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "68722e71ece9e0360e7c694a"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:46:29.253Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:46:29.253Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68722ef6ece9e0360e7c69a0"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "defads upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "68722e71ece9e0360e7c694a"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:46:30.158Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:46:30.158Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687231d2ece9e0360e7c69eb"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "Kisha1 upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "687231c7ece9e0360e7c69bf"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:58:42.896Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:58:42.896Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687231d6ece9e0360e7c69f9"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "answer_voted",
+  "title": "Your answer received an upvote",
+  "message": "Kisha1 upvoted your answer",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "68722501689b4aaefe044b2d"
+    },
+    "userId": {
+      "$oid": "687231c7ece9e0360e7c69bf"
+    },
+    "voteType": "upvote"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:58:46.108Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:58:46.108Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687231eaece9e0360e7c6a04"
+  },
+  "recipient": {
+    "$oid": "687211f7003bb4bb9ab33243"
+  },
+  "type": "question_answered",
+  "title": "Your question received an answer",
+  "message": "Kisha1 answered your question \"dscbdsncsdkcnd  m\"",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "687231eaece9e0360e7c69ff"
+    },
+    "userId": {
+      "$oid": "687231c7ece9e0360e7c69bf"
+    }
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T09:59:06.781Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T09:59:06.781Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687234b86affd20d16f49f33"
+  },
+  "recipient": {
+    "$oid": "687225ac689b4aaefe044b75"
+  },
+  "type": "comment_added",
+  "title": "Someone commented on your answer",
+  "message": "Kisha1 commented on your answer to \"dscbdsncsdkcnd  m\"",
+  "data": {
+    "questionId": {
+      "$oid": "68721c6644f54ac94614c739"
+    },
+    "answerId": {
+      "$oid": "687225e9689b4aaefe044be7"
+    },
+    "userId": {
+      "$oid": "687231c7ece9e0360e7c69bf"
+    }
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T10:11:04.861Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T10:11:04.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6872359a6affd20d16f49fb6"
+  },
+  "recipient": {
+    "$oid": "687235366affd20d16f49f5e"
+  },
+  "type": "question_answered",
+  "title": "Your question received an answer",
+  "message": "Shruti11 answered your question \"zdxfcgvbnzdvc\"",
+  "data": {
+    "questionId": {
+      "$oid": "687235526affd20d16f49f76"
+    },
+    "answerId": {
+      "$oid": "6872359a6affd20d16f49fb1"
+    },
+    "userId": {
+      "$oid": "687235886affd20d16f49f8c"
+    }
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T10:14:50.763Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T10:14:50.763Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687238d00316c42489282dfc"
+  },
+  "recipient": {
+    "$oid": "687235366affd20d16f49f5e"
+  },
+  "type": "question_answered",
+  "title": "Your question received an answer",
+  "message": "Astha answered your question \"Test Question for Notifications\"",
+  "data": {
+    "questionId": {
+      "$oid": "687238d00316c42489282ded"
+    },
+    "answerId": {
+      "$oid": "687238d00316c42489282df7"
+    },
+    "userId": {
+      "$oid": "687235366affd20d16f49f5e"
+    }
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T10:28:32.327Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T10:28:32.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68723b2016d26eb7ec5d12fc"
+  },
+  "recipient": {
+    "$oid": "687235366affd20d16f49f5e"
+  },
+  "type": "question_answered",
+  "title": "Your question received an answer",
+  "message": "Shruti11 answered your question \"rsrdtdyfyftdft\"",
+  "data": {
+    "questionId": {
+      "$oid": "68723ae516d26eb7ec5d12c0"
+    },
+    "answerId": {
+      "$oid": "68723b2016d26eb7ec5d12f7"
+    },
+    "userId": {
+      "$oid": "687235886affd20d16f49f8c"
+    }
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T10:38:24.283Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T10:38:24.283Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68724285169b2ff850795123"
+  },
+  "recipient": {
+    "$oid": "687235366affd20d16f49f5e"
+  },
+  "type": "question_answered",
+  "title": "Your question received an answer",
+  "message": "Shruti11 answered your question \"Test Question for Notifications\"",
+  "data": {
+    "questionId": {
+      "$oid": "687238d00316c42489282ded"
+    },
+    "answerId": {
+      "$oid": "68724285169b2ff85079511e"
+    },
+    "userId": {
+      "$oid": "687235886affd20d16f49f8c"
+    }
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "readAt": null,
+  "createdAt": {
+    "$date": "2025-07-12T11:09:57.868Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-12T11:09:57.868Z"
+  },
+  "__v": 0
+}]
